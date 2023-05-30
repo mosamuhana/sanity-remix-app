@@ -2,7 +2,7 @@
 
 Batteries-included website template for a content-editable, live-preview enabled Remix website powered by Sanity Studio v3.
 
-![home Page of a Remix website](./resources/home-page-dark.png)
+![home Page of a Remix website](./resources/home-dark.png)
 
 [Sanity Docs](https://sanity.io/docs) | [Remix Docs](https://remix.run/docs)
 
@@ -22,7 +22,7 @@ npm run dev
 
 Now open the Studio at [localhost:3000/studio](http://localhost:3000/studio) and start authoring content!
 
-![Sanity Studio v3](./resources/studio-page-dark.png)
+![Sanity Studio v3](./resources/studio-dark.png)
 
 ## Includes
 
