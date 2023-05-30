@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-link {
+  @apply hover:text-cyan-600 dark:hover:text-cyan-200;
+}
